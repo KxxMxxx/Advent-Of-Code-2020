@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# MacOS generated files
+.DS_Store
+.DS_Store?
